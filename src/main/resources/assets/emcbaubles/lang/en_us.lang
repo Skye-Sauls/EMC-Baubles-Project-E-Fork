@@ -1,0 +1,24 @@
+item.emc_conversion_belt.name=EMC Conversion Belt
+item.emc_conversion_belt.desc=Converts picked up items with EMC value to EMC stored in Klein Star(s) in inventory.
+item.emc_refiller_ring.name=Auto Refiller Ring
+item.emc_refiller_ring.desc=Refills fully consumed stacks and broken tools using EMC from Klein Star(s) in inventory.
+
+item.collector_mk1_necklace.name=Collector Necklace MK1
+item.collector_mk2_necklace.name=Collector Necklace MK2
+item.collector_mk3_necklace.name=Collector Necklace MK3
+
+item.flower_mk1_charm.name=Power Flower Charm MK1
+item.flower_mk2_charm.name=Power Flower Charm MK2
+item.flower_mk3_charm.name=Power Flower Charm MK3
+
+item.emc_collecting_bauble.desc=Collects EMC using the light level at the player's location to determine efficacy.
+
+item.big_petal_mk1.name=Big Power Flower Charm Petal MK1
+item.big_petal_mk2.name=Big Power Flower Charm Petal MK2
+item.big_petal_mk3.name=Big Power Flower Charm Petal MK3
+
+item.small_petal_mk1.name=Small Power Flower Charm Petal MK1
+item.small_petal_mk2.name=Small Power Flower Charm Petal MK2
+item.small_petal_mk3.name=Small Power Flower Charm Petal MK3
+
+item.klein_star_max_storage.tooltip=Maximum EMC:

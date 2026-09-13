@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "emcbaubles:collector_mk1_necklace"
+    }
+  ],
+  "result": {
+    "item": "projecte:collector_mk1"
+  }
+}

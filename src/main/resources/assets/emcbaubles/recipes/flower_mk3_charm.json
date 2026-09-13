@@ -1,0 +1,25 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "SGS",
+    "B B",
+    "$B$"
+  ],
+  "key": {
+    "S": {
+      "item": "#STRING"
+    },
+    "G": {
+      "item": "#INGOTGOLD"
+    },
+    "B": {
+      "item": "emcbaubles:big_petal_mk3"
+    },
+    "$": {
+      "item": "emcbaubles:small_petal_mk3"
+    }
+  },
+  "result": {
+    "item": "emcbaubles:flower_mk3_charm"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "INGOTGOLD",
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "ingotGold"
+    }
+  },
+  {
+    "name": "STRING",
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "string"
+    }
+  },
+  {
+    "name": "LEATHER",
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "leather"
+    }
+  }
+]

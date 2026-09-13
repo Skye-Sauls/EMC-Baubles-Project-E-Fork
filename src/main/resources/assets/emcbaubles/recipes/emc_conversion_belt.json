@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "L L",
+    "###",
+    "L L"
+  ],
+  "key": {
+    "L": {
+      "item": "#LEATHER"
+    },
+    "#": {
+      "item": "projecte:item.pe_matter",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "emcbaubles:emc_conversion_belt"
+  }
+}

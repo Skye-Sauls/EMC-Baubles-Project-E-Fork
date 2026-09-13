@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "item": "projecte:relay_mk3"
+    },
+    {
+      "item": "projecte:collector_mk3"
+    },
+    {
+      "item": "projecte:collector_mk3"
+    }
+  ],
+  "result": {
+    "item": "emcbaubles:small_petal_mk3"
+  }
+}

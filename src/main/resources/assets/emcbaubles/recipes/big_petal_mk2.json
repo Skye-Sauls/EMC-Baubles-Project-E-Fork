@@ -1,0 +1,22 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "S S",
+    "CRC",
+    " C "
+  ],
+  "key": {
+    "S": {
+      "item": "#STRING"
+    },
+    "R": {
+      "item": "projecte:relay_mk2"
+    },
+    "C": {
+      "item": "projecte:collector_mk2"
+    }
+  },
+  "result": {
+    "item": "emcbaubles:big_petal_mk2"
+  }
+}

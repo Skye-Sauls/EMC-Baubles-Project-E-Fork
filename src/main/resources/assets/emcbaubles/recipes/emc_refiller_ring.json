@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " # ",
+    "G G",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "#INGOTGOLD"
+    },
+    "#": {
+      "item": "projecte:item.pe_transmutation_tablet"
+    }
+  },
+  "result": {
+    "item": "emcbaubles:emc_refiller_ring"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "#STRING"
+    },
+    "C": {
+      "item": "projecte:collector_mk3"
+    }
+  },
+  "result": {
+    "item": "emcbaubles:collector_mk3_necklace"
+  }
+}
